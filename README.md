@@ -2,7 +2,7 @@
 
 You must have Emulation Station installed first. You can find guides on Youtube and Google on how to install EmuDeck.
 
-Prerequisites before running the python script:
+Prerequisites before running the python script:\n
 1. Go to Desktop mode
 2. Open Konsole
 3. Check that Python is installed:
