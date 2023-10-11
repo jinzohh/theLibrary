@@ -2,11 +2,11 @@
 
 You must have Emulation Station installed first. You can find guides on Youtube and Google on how to install EmuDeck.
 
-Prerequisites before running the python script:\n
+Prerequisites before running the python script:
 1. Go to Desktop mode
 2. Open Konsole
 3. Check that Python is installed:
-   a. python -V
+```python -V```
 5. Install PIP:
    a. sudo pacman-key --init
    b. sudo pacman-key --populate archlinux
