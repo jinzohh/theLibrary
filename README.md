@@ -6,7 +6,9 @@ Prerequisites before running the python script:
 1. Go to Desktop mode
 2. Open Konsole
 3. Check that Python is installed:
-```python -V```
+```
+python -V
+```
 5. Install PIP:
    a. sudo pacman-key --init
    b. sudo pacman-key --populate archlinux
