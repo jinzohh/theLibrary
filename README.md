@@ -22,7 +22,7 @@ nano ~/.bashrc
 ```
 &emsp;&emsp;Add at the end of the script
 ```
-PATH = "$HOME/.local/bin:$PATH"
+PATH="$HOME/.local/bin:$PATH"
 ```
 &emsp;&emsp;CTRL+X then Y then ENTER (Exiting the .bashrc script)
 ```
